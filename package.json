@@ -1,10 +1,10 @@
 {
 
-  "name": "QUEEN-ELISA-MD",
+  "name": "CYBER-BOT-SL-SACHIYA",
 
   "version": "3.8.6",
 
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "description": "cyber sachiya Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
 
   "type": "commonjs",
 
@@ -32,11 +32,11 @@
 
     "multi-device",
 
-    "dark-maker-ofc"
+    "cyber-sachiya-ofc"
 
   ],
 
-  "author": "MR-NIMA",
+  "author": "MR-sachiya",
 
   "license": "AGPL-3",
 
@@ -182,15 +182,15 @@
 
   "devDependencies": {},
 
-  "repository": "git+https://github.com/DarkMakerofc/QUEEN-ELISA-MD.git",
+  "repository": "git+https://github.com/SL-CYBER-WA-BOT/CYBER-BOT-SL-SACHIYA git",
 
   "bugs": {
 
-    "url": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/issues"
+    "url": "https://github.com/SL-CYBER-WA-BOT/CYBER-BOT-SL-SACHIYA/issues"
 
   },
 
-  "homepage": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/#readme",
+  "homepage": "https://github.com/SL-CYBER-WA-BOT/CYBER-BOT-SL-SACHIYA/#readme",
 
   "main": "index.js"
 
